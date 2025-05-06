@@ -1,5 +1,4 @@
 {
-    # Taman Hiburan
     "taman hiburan": "Taman Hiburan",
     "tempat bermain": "Taman Hiburan",
     "wahana": "Taman Hiburan",
@@ -7,8 +6,6 @@
     "dunia fantasi": "Taman Hiburan",
     "trans studio": "Taman Hiburan",
     "jungleland": "Taman Hiburan",
-
-    # Budaya
     "budaya": "Budaya",
     "museum": "Budaya",
     "situs sejarah": "Budaya",
@@ -16,8 +13,6 @@
     "monumen": "Budaya",
     "wisata sejarah": "Budaya",
     "wisata budaya": "Budaya",
-
-    # Bahari
     "bahari": "Bahari",
     "pantai": "Bahari",
     "laut": "Bahari",
@@ -26,8 +21,6 @@
     "diving": "Bahari",
     "pesisir": "Bahari",
     "pulau": "Bahari",
-
-    # Cagar Alam
     "cagar alam": "Cagar Alam",
     "hutan lindung": "Cagar Alam",
     "taman nasional": "Cagar Alam",
@@ -38,8 +31,6 @@
     "alam bebas": "Cagar Alam",
     "air terjun": "Cagar Alam",
     "gunung": "Cagar Alam",
-
-    # Pusat Perbelanjaan
     "pusat perbelanjaan": "Pusat Perbelanjaan",
     "mall": "Pusat Perbelanjaan",
     "plaza": "Pusat Perbelanjaan",
@@ -47,8 +38,6 @@
     "tempat belanja": "Pusat Perbelanjaan",
     "pasar modern": "Pusat Perbelanjaan",
     "toko": "Pusat Perbelanjaan",
-
-    # Tempat Ibadah
     "tempat ibadah": "Tempat Ibadah",
     "masjid": "Tempat Ibadah",
     "mushola": "Tempat Ibadah",
